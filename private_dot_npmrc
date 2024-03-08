@@ -1,0 +1,6 @@
+//registry.npmjs.org/:_authToken=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
+fetch-retries=5
+fetch-retry-factor=20
+fetch-retry-mintimeout=20000
+fetch-retry-maxtimeout=120000
+fetch-timeout=600000
